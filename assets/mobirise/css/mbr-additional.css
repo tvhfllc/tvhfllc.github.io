@@ -1052,12 +1052,12 @@ a {
   align-self: center;
 }
 .cid-s48OLK6784 button.navbar-toggler .hamburger span {
-  position: relative;
+  position: absolute;
   right: 0;
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #353535;
+  background-color: currentcolor;
 }
 .cid-s48OLK6784 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
